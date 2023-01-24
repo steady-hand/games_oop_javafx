@@ -53,4 +53,16 @@ public class WinTest {
         };
         assertThat(Win.check(board)).isFalse();
     }
+
+    @Test
+    void horizontal() {
+    }
+
+    @Test
+    void vertical() {
+    }
+
+    @Test
+    void check() {
+    }
 }
