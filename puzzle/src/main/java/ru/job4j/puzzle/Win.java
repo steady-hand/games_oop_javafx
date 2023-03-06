@@ -32,5 +32,5 @@ public class Win {
             }
         }
         return rsl;
-    }
+    } // тут был Влад
 }
